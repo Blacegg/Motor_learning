@@ -1,6 +1,0 @@
-{
-    "files.associations": {
-        "bsp_usart.h": "c",
-        "protocol.h": "c"
-    }
-}
